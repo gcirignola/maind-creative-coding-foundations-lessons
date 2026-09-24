@@ -10,5 +10,3 @@ The topics are:
 - JS
 
 MAIND year 2026/28
-
-What if i write BLA BLA BLA?
